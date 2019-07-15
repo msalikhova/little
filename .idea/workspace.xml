@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5dbd181-3d48-4725-9530-c1ff2a542a2f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Assign4/Sprint0.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign4/Sprint0.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign4/USE case for 8380.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign4/USE case for 8380.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign4/features&amp;epics.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign4/features&amp;epics.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2part1.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2part1.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proposed topics for Exam 1.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Proposed topics for Exam 1.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperSkills.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../efs" beforeDir="false" afterPath="$PROJECT_DIR$/../efs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../efs -heroku" beforeDir="false" afterPath="$PROJECT_DIR$/../efs -heroku" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profilepic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/dist/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/dist/vue.common.dev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/dist/vue.common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/dist/vue.common.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/dist/vue.esm.browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/dist/vue.esm.browser.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/dist/vue.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/dist/vue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/dist/vue.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/dist/vue.runtime.common.dev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/dist/vue.runtime.common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/dist/vue.runtime.common.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/dist/vue.runtime.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/dist/vue.runtime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/dist/vue.runtime.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/compiler/codeframe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/compiler/codegen/events.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/compiler/codegen/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/compiler/create-compiler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/compiler/directives/bind.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/compiler/directives/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/compiler/directives/model.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/compiler/directives/on.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/compiler/error-detector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/compiler/helpers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/compiler/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/compiler/optimizer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/compiler/parser/entity-decoder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/compiler/parser/filter-parser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/compiler/parser/html-parser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/compiler/parser/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/compiler/parser/text-parser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/compiler/to-function.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/components/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/components/keep-alive.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/global-api/assets.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/global-api/extend.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/global-api/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/global-api/mixin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/global-api/use.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/instance/events.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/instance/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/instance/init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/instance/inject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/instance/lifecycle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/instance/proxy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/instance/render-helpers/bind-dynamic-keys.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/instance/render-helpers/bind-object-listeners.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/instance/render-helpers/bind-object-props.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/instance/render-helpers/check-keycodes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/instance/render-helpers/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/instance/render-helpers/render-list.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/instance/render-helpers/render-slot.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/instance/render-helpers/render-static.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/instance/render-helpers/resolve-filter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/instance/render-helpers/resolve-scoped-slots.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/instance/render-helpers/resolve-slots.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/instance/render.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/instance/state.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/observer/array.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/observer/dep.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/observer/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/observer/scheduler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/observer/traverse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/observer/watcher.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/util/debug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/util/env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/util/error.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/util/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/util/lang.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/util/next-tick.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/util/options.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/util/perf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/util/props.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/vdom/create-component.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/vdom/create-element.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/vdom/create-functional-component.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/vdom/helpers/extract-props.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/vdom/helpers/get-first-component-child.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/vdom/helpers/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/vdom/helpers/is-async-placeholder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/vdom/helpers/merge-hook.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/vdom/helpers/normalize-children.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/vdom/helpers/normalize-scoped-slots.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/vdom/helpers/resolve-async-component.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/vdom/helpers/update-listeners.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/vdom/modules/directives.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/vdom/modules/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/vdom/modules/ref.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/vdom/patch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/core/vdom/vnode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/compiler/directives/html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/compiler/directives/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/compiler/directives/model.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/compiler/directives/text.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/compiler/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/compiler/modules/class.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/compiler/modules/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/compiler/modules/model.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/compiler/modules/style.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/compiler/options.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/compiler/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/entry-compiler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/entry-runtime-with-compiler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/entry-runtime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/entry-server-basic-renderer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/entry-server-renderer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/runtime/class-util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/runtime/components/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/runtime/components/transition-group.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/runtime/components/transition.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/runtime/directives/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/runtime/directives/model.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/runtime/directives/show.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/runtime/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/runtime/modules/attrs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/runtime/modules/class.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/runtime/modules/dom-props.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/runtime/modules/events.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/runtime/modules/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/runtime/modules/style.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/runtime/modules/transition.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/runtime/node-ops.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/runtime/patch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/runtime/transition-util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/server/compiler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/server/directives/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/server/directives/model.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/server/directives/show.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/server/modules/attrs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/server/modules/class.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/server/modules/dom-props.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/server/modules/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/server/modules/style.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/server/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/util/attrs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/util/class.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/util/compat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/util/element.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/util/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/web/util/style.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/compiler/directives/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/compiler/directives/model.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/compiler/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/compiler/modules/append.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/compiler/modules/class.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/compiler/modules/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/compiler/modules/props.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/compiler/modules/recycle-list/component-root.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/compiler/modules/recycle-list/component.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/compiler/modules/recycle-list/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/compiler/modules/recycle-list/recycle-list.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/compiler/modules/recycle-list/text.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/compiler/modules/recycle-list/v-bind.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/compiler/modules/recycle-list/v-for.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/compiler/modules/recycle-list/v-if.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/compiler/modules/recycle-list/v-on.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/compiler/modules/recycle-list/v-once.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/compiler/modules/style.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/entry-compiler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/entry-framework.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/entry-runtime-factory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/runtime/components/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/runtime/components/richtext.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/runtime/components/transition-group.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/runtime/components/transition.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/runtime/directives/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/runtime/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/runtime/modules/attrs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/runtime/modules/class.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/runtime/modules/events.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/runtime/modules/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/runtime/modules/style.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/runtime/modules/transition.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/runtime/node-ops.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/runtime/patch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/runtime/recycle-list/render-component-template.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/runtime/recycle-list/virtual-component.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/runtime/text-node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/util/element.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/util/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/platforms/weex/util/parser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/server/bundle-renderer/create-bundle-renderer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/server/bundle-renderer/create-bundle-runner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/server/bundle-renderer/source-map-support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/server/create-basic-renderer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/server/create-renderer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/server/optimizing-compiler/codegen.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/server/optimizing-compiler/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/server/optimizing-compiler/modules.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/server/optimizing-compiler/optimizer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/server/optimizing-compiler/runtime-helpers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/server/render-context.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/server/render-stream.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/server/render.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/server/template-renderer/create-async-file-mapper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/server/template-renderer/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/server/template-renderer/parse-template.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/server/template-renderer/template-stream.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/server/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/server/webpack-plugin/client.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/server/webpack-plugin/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/server/webpack-plugin/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/server/write.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/sfc/parser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/shared/constants.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/src/shared/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/types/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/types/options.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/types/plugin.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/types/vnode.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/types/vue.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-npm/vue-proj" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>type</find>
+      <find>payment_process</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/myshop/shop/admin.py" />
+        <option value="$PROJECT_DIR$/myshop/shop/urls.py" />
+        <option value="$PROJECT_DIR$/myshop/shop/models.py" />
+        <option value="$PROJECT_DIR$/myshop/shop/static/css/base.css" />
+        <option value="$PROJECT_DIR$/myshop/shop/static/css/pdf.css" />
+        <option value="$PROJECT_DIR$/myshop/shop/templates/shop/product/list.html" />
+        <option value="$PROJECT_DIR$/myshop/cart/forms.py" />
+        <option value="$PROJECT_DIR$/myshop/shop/templates/shop/product/detail.html" />
+        <option value="$PROJECT_DIR$/myshop/shop/views.py" />
+        <option value="$PROJECT_DIR$/myshop/cart/urls.py" />
+        <option value="$PROJECT_DIR$/myshop/cart/context_processors.py" />
+        <option value="$PROJECT_DIR$/myshop/shop/templates/shop/base.html" />
+        <option value="$PROJECT_DIR$/myshop/orders/forms.py" />
+        <option value="$PROJECT_DIR$/myshop/orders/templates/orders/order/created.html" />
+        <option value="$PROJECT_DIR$/myshop/myshop/celery.py" />
+        <option value="$PROJECT_DIR$/myshop/myshop/__init__.py" />
+        <option value="$PROJECT_DIR$/myshop/orders/tasks.py" />
+        <option value="$PROJECT_DIR$/myshop/payment/templates/payment/done.html" />
+        <option value="$PROJECT_DIR$/myshop/payment/templates/payment/cancelled.html" />
+        <option value="$PROJECT_DIR$/myshop/orders/templates/admin/orders/order/detail.html" />
+        <option value="$PROJECT_DIR$/templates/admin/base_site.html" />
+        <option value="$PROJECT_DIR$/myshop/coupons/models.py" />
+        <option value="$PROJECT_DIR$/myshop/coupons/admin.py" />
+        <option value="$PROJECT_DIR$/myshop/coupons/forms.py" />
+        <option value="$PROJECT_DIR$/myshop/coupons/views.py" />
+        <option value="$PROJECT_DIR$/myshop/coupons/urls.py" />
+        <option value="$PROJECT_DIR$/myshop/myshop/urls.py" />
+        <option value="$PROJECT_DIR$/myshop/cart/cart.py" />
+        <option value="$PROJECT_DIR$/myshop/cart/views.py" />
+        <option value="$PROJECT_DIR$/myshop/cart/templates/cart/detail.html" />
+        <option value="$PROJECT_DIR$/myshop/orders/templates/orders/order/create.html" />
+        <option value="$PROJECT_DIR$/myshop/orders/models.py" />
+        <option value="$PROJECT_DIR$/myshop/payment/urls.py" />
+        <option value="$PROJECT_DIR$/myshop/payment/views.py" />
+        <option value="$PROJECT_DIR$/myshop/payment/templates/payment/process.html" />
+        <option value="$PROJECT_DIR$/myshop/orders/templates/orders/order/pdf.html" />
+        <option value="$PROJECT_DIR$/myshop/orders/views.py" />
+        <option value="$PROJECT_DIR$/myshop/myshop/settings.py" />
+        <option value="$PROJECT_DIR$/myshop/orders/urls.py" />
+        <option value="$PROJECT_DIR$/myshop/orders/admin.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/manage.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="21" />
+    <option name="width" value="963" />
+    <option name="height" value="690" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="littlethings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="littlethings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="littlethings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="littlethings" type="462c0819:PsiDirectoryNode" />
+              <item name="myshop" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../efs" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="littlethings" type="Python.DjangoServer" factoryName="Django server">
+      <module name="littlethings" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5dbd181-3d48-4725-9530-c1ff2a542a2f" name="Default Changelist" comment="" />
+      <created>1562881134696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562881134696</updated>
+      <workItem from="1562881173539" duration="31921000" />
+      <workItem from="1563227041309" duration="2612000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="34533000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1292" height="692" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2540453" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.38120568" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32978722" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32978722" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Python Console" order="5" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="SciView" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/myshop/shop/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/shop/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="39" column="49" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/shop/static/css/pdf.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="59" column="1" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/shop/templates/shop/product/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/cart/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="57" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/shop/templates/shop/product/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="20" column="40" lean-forward="true" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/cart/context_processors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/cart/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/orders/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/littlethings/urls.py" />
+    <entry file="file://$PROJECT_DIR$/littlethings/settings.py" />
+    <entry file="file://$PROJECT_DIR$/myshop/orders/tasks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/myshop/celery.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/orders/templates/orders/order/created.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/payment/templates/payment/cancelled.html" />
+    <entry file="file://$PROJECT_DIR$/myshop/payment/templates/payment/done.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/base_site.html" />
+    <entry file="file://$PROJECT_DIR$/myshop/shop/static/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/cart/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/cart/templates/cart/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="83" column="7" selection-start-line="83" selection-start-column="7" selection-end-line="83" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/cart/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="33" column="101" lean-forward="true" selection-start-line="33" selection-start-column="101" selection-end-line="33" selection-end-column="101" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/cart/cart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="93" column="59" selection-start-line="93" selection-start-column="59" selection-end-line="93" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/coupons/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/coupons/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/coupons/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/coupons/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/coupons/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/shop/templates/shop/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-16">
+          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/payment/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/payment/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/payment/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/payment/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/orders/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="31" column="38" lean-forward="true" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/orders/templates/orders/order/create.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/shop/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="58" selection-start-line="26" selection-start-column="58" selection-end-line="26" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/orders/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/orders/templates/admin/orders/order/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="83" column="6" selection-start-line="83" selection-start-column="6" selection-end-line="83" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/orders/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="89" lean-forward="true" selection-start-line="8" selection-start-column="89" selection-end-line="8" selection-end-column="89" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/orders/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="61" column="19" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/orders/templates/orders/order/pdf.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="48" column="7" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/payment/templates/payment/process.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="69" column="14" selection-start-line="69" selection-start-column="14" selection-end-line="69" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/shop/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/myshop/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="25" column="67" lean-forward="true" selection-start-line="25" selection-start-column="67" selection-end-line="25" selection-end-column="67" />
+          <folding>
+            <element signature="e#630#662#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding>
+            <element signature="e#84#93#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/myshop/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/myshop/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="37" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myshop/myshop/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-889">
+          <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
