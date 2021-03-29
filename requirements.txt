@@ -30,7 +30,7 @@ nbformat==4.4.0
 pandocfilters==1.4.2
 Pillow==5.1.0
 pycparser==2.19
-Pygments==2.4.2
+Pygments==2.7.4
 Pyphen==0.9.5
 pyrsistent==0.15.3
 pytz==2019.1
